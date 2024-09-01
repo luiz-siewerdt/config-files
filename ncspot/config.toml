@@ -1,0 +1,38 @@
+[theme]
+background = ""
+primary = "#a9b1d6"
+
+secondary = "#7aa2f7"
+title = "#7aa2f7"
+playing = "#32344a"
+
+playing_selected = "#a9b1d6"
+playing_bg = "#a9b1d6"
+
+highlight = "#a9b1d6"
+highlight_bg = "#32344a"
+
+error = "#FFFFFF"
+error_bg = "#f7768e"
+
+statusbar = "#a9b1d6"
+statusbar_progress = "#7aa2f7"
+statusbar_bg = ""
+
+cmdline = "#a9b1d6"
+cmdline_bg = ""
+
+search_match = "#f7768e"
+
+[colors.normal]
+black=   '#32344a'
+red=     '#f7768e'
+green=   '#9ece6a'
+yellow=  '#e0af68'
+
+blue=    '#7aa2f7'
+magenta= '#ad8ee6'
+cyan=    '#7dcfff'
+white=   '#9699a8'
+
+
